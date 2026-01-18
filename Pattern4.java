@@ -1,5 +1,6 @@
 import java.util.*;
 public class Pattern4{
+    
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of rows:");
@@ -13,3 +14,4 @@ public class Pattern4{
             System.out.println();
         }
     }
+}
