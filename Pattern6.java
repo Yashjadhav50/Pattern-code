@@ -5,7 +5,7 @@ public class Pattern6{
         System.out.println("Enter the number of rows:");
 
         int n = sc.nextInt();
-
+        
         for(int i=0;i<n;i++){
             //spaces
             for(int j=0;j<n-i-1;j++){
